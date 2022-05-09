@@ -1,0 +1,1 @@
+mpisubmit -n 4 a 1024
